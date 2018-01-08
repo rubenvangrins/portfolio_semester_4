@@ -10,7 +10,7 @@ Dit is mijn huidige portfolio. Deze portfolio gebruik ik tevens als school portf
 Alle inhoud is hardcoded geschreven. Wanneer je andere inhoud zou willen hebben. Moet je in de bestanden kijken waar de juiste teksten geplaatst moeten worden.
 
 ## Demo
-Zie Quiz [demo](http://www.rubenvangrinsven.com)
+Bekijk mijn portfolio [demo](http://www.rubenvangrinsven.com)
 
 ## Motivatie
 
